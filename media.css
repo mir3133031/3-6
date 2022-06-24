@@ -1,0 +1,243 @@
+@media only screen and (max-width:1447px) {
+    .img-phone-miraa {
+        height: 500px;
+        width: 300px;
+    }
+
+    .img-carts-miraa {
+        margin-top: 110px;
+        margin-left: 265px;
+        width: 306px;
+    }
+
+
+    .everyday-text {
+        font-size: 39px;
+        font-weight: 400;
+        line-height: 44px;
+        letter-spacing: 3px;
+        color: #230B59;
+    }
+
+
+
+    .big-text {
+        width: 371px;
+        height: 170px;
+
+
+    }
+
+    .smoll-texxt {
+        width: 345px;
+        height: 78px;
+        margin-top: 10px;
+    }
+
+    .our {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 22px;
+
+    }
+
+    .btn-1 {
+        height: 35px;
+        width: 106px;
+        background-color: #230B59;
+        border-radius: 5px;
+        border: none;
+
+    }
+
+    .btn-1 p {
+        color: white;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 14px;
+    }
+
+    .btn-2 {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 14px;
+
+    }
+
+    .botton {
+        margin-top: 15px;
+        width: 200px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+
+}
+
+@media only screen and (max-width:1090px) {
+    main-mir {
+        display: contents;
+
+    }
+
+    .box-for-text-miraa {
+        margin: 0 auto;
+    }
+
+    .img-carts-miraa {
+        margin-top: 160px;
+        position: absolute;
+        margin-left: 110px;
+        width: 406px;
+    }
+
+    .box-for-text-miraa {
+        margin-top: 90px;
+        align-items: center;
+        margin-left: 390px;
+    }
+
+    .img-phone-miraa {
+        height: 696px;
+        width: 353px;
+        margin-left: 475px;
+        padding-right: 41px;
+    }
+
+    .big-text {
+        width: 371px;
+        height: 187px;
+
+
+    }
+
+    .everyday-text {
+        text-align: center;
+    }
+
+    .our {
+        text-align: center;
+    }
+
+    .smoll-texxt {
+        width: 355px;
+        height: 88px;
+        margin-top: 10px;
+    }
+
+    .botton {
+        margin-top: 0;
+        width: 280px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+
+    }
+
+
+}
+
+@media only screen and (max-width:824px) {
+    .img-carts-miraa {
+        margin-left: 30px;
+
+    }
+
+    .img-phone-miraa {
+        margin-left: 400px;
+    }
+
+    .box-for-text-miraa {
+        margin-top: 90px;
+        align-items: center;
+        margin-left: 230px;
+    }
+}
+@media only screen and (max-width:706px){
+    .img-phone-miraa{
+        display: none;
+    }
+    .img-carts-miraa{
+        position:relative;
+        transform: rotate(9.6deg);
+        margin-left: 100px;
+    }
+    .box-for-text-miraa {
+        margin-left: 128px;
+        position: absolute;
+        z-index: 2;
+    }
+}
+@media only screen and (max-width:446px){
+
+    .img-carts-miraa{
+       display: none;
+    }
+    .everyday-text {
+        font-size: 34px;
+        line-height: 40px;
+     
+    }
+    
+    .big-text {
+        width: 331px;
+        height: 167px;
+    }
+    
+    .smoll-texxt {
+        width: 331px;
+        height: 48px;
+        margin-top: 5px;
+    }
+    
+    .our {
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 16px;
+    
+    }
+    
+    .btn-1 {
+        height: 35px;
+        width: 100px;
+        border-radius: 5px;
+        border: none;
+    
+    }
+    
+    .btn-1 p {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 22px;
+    }
+    
+    .btn-2 {
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 22px;
+    }
+    
+    .botton {
+        margin-top: 20px;
+        width: 250px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    
+    }
+
+    .box-for-text-miraa{
+        margin-left: 30px;
+    }
+
+   
+
+
+
+
+}
